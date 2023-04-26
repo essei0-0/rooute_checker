@@ -1,0 +1,20 @@
+# write methods you want to scan
+
+C1:
+  methods:
+    - name: test1
+      args:
+        # - 1
+    - name: test2
+      # args:
+      #   - 1
+      #   - 2
+# M1:
+#   methods:
+#     - name: test1
+#       # args:
+#       #   - 1
+#     - name: test2
+#       # args:
+#       #   - 1
+#       #   - 2
